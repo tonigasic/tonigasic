@@ -17,4 +17,4 @@ Since 2017 i have been living and breathing web development and creating modern,
 
 <a href="https://www.linkedin.com/in/tonig0507"><img src="https://cdn1.iconfinder.com/data/icons/company-identity/100/LinkedIn-logo-vector-256.png" width="100"></a>
 
-https://toni-gasic-portfolio.web.app/skills
+https://toni-gasic-portfolio.web.app
